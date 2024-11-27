@@ -21,6 +21,7 @@
     "typescript": "5.4.2"
   },
   "dependencies": {
+    "@inquirer/prompts": "7.1.0",
     "axios": "0.28.0",
     "bignumber.js": "9.1.2",
     "bitcoinjs-lib": "6.1.5",
